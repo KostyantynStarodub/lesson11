@@ -4,7 +4,7 @@
     font-family: 'Lato', sans-serif;
 }
 .box_header{
-    width: 1519px;
+    max-width: 100%;
     height: 1000px;
     
 }
@@ -69,7 +69,7 @@
 .box_content{
     background-color: blanchedalmond;
     width: 100%;
-    height: 400px;
+    height: 450px;
     padding-top: 20px;
 }
 .box_content h1{
